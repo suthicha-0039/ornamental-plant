@@ -71,7 +71,7 @@ export default function Home() {
  return (
    <>
    <div className="flex min-h-screen flex-col items-center justify-between p-4">
-     <h1 className="text-4xl font-bold">IMI Store</h1>
+     <h1 className="text-4xl font-bold">Plant Store</h1>
      <div className="flex gap-2">
        {/* -------------------ตะกร้าสินค้า-----------------------------------  */}
        <div className="mt-4 w-[35%] bg-zinc-300 p-2 rounded-lg border-2 border-cyan-500 ">
